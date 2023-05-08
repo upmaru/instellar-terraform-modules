@@ -1,9 +1,9 @@
 [submodule "terraform-aws-instellar"]
 	path = terraform-aws-instellar
-	url = https://github.com/upmaru/terraform-aws-instellar
+	url = git@github.com:upmaru/terraform-aws-instellar.git
 [submodule "terraform-digitalocean-instellar"]
 	path = terraform-digitalocean-instellar
-	url = https://github.com/upmaru/terraform-digitalocean-instellar
+	url = git@github.com:upmaru/terraform-digitalocean-instellar.git
 [submodule "terraform-hcloud-instellar"]
 	path = terraform-hcloud-instellar
-	url = https://github.com/upmaru/terraform-hcloud-instellar
+	url = git@github.com:upmaru/terraform-hcloud-instellar.git
