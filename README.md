@@ -6,3 +6,7 @@ This repo is a collection of the terraform modules we provide. These modules wil
 - Hetzner Cloud
 - DigitalOcean
 - More to come ...
+
+## Workflow Demo
+
+[![Automated Cluster Setup](https://img.youtube.com/vi/x8YNHyzkH60/0.jpg)](https://www.youtube.com/watch?v=x8YNHyzkH60)
