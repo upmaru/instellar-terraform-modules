@@ -7,3 +7,6 @@
 [submodule "terraform-hcloud-instellar"]
 	path = terraform-hcloud-instellar
 	url = git@github.com:upmaru/terraform-hcloud-instellar.git
+[submodule "terraform-instellar-bootstrap"]
+	path = terraform-instellar-bootstrap
+	url = git@github.com:upmaru/terraform-instellar-bootstrap.git
